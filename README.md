@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lovyjain
 - 👀 I’m interested in Microsoft Products 
-- 🌱 I’m currently learning Teams Development
-- 💞️ I’m looking to collaborate on creating a React applications
-- 📫 How to reach me : https://www.linkedin.com/in/lovy-jain-649577121/
+- 🌱 I’m currently learning Copilot Agents Development
+- 📫 How to reach me : [https://www.linkedin.com/in/lovy-jain-649577121/](https://www.linkedin.com/in/jainlovy/)
 
 <!---
 lovyjain/lovyjain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
