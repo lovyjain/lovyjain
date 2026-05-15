@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @lovyjain
-- 👀 I’m interested in Microsoft Products 
+- 🚀 Building JainKwiz jainkwiz.com
+- 👀 I’m interested in Microsoft Products
 - 🌱 I’m currently learning Copilot Agents Development
-- 📫 How to reach me : https://www.linkedin.com/in/jainlovy/
+- 📫 How to reach me: https://www.linkedin.com/in/jainlovy/
+- ✨ Check out my projects and contributions below
 
 <!---
 lovyjain/lovyjain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
