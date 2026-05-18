@@ -2,7 +2,7 @@
 - 👀 I’m interested in Microsoft Products
 - 🌱 I’m currently learning Copilot Agents Development
 - 📫 How to reach me: https://www.linkedin.com/in/jainlovy/
-- ✨ Check out my projects and contributions below
+- ✨ Check out about me and my work here https://lovyjain.github.io/ 
 - 🚀 Building [jainkwiz.com](https://jainkwiz.com/)
 
 <!---
